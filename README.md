@@ -54,6 +54,8 @@ Say potato 10x in multiple language
 
 `Run: ./potato`
 
+##
+
 ### C# - Approved (verified)
 `Require: mono | sudo apt install mono`
 
@@ -61,6 +63,7 @@ Say potato 10x in multiple language
 
 `Run: mono potato.exe`
 
+##
 
 ### Java - Approved (verified)
 `Require: openjdk`
