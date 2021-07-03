@@ -1,5 +1,8 @@
 # Potato
 Say potato 10x in multiple language
+## If you want more language, make an issue :)
+
+## Language coming soon: Lua, C, c++, Go
 
 ##
 
