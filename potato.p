@@ -1,4 +1,4 @@
-#pascal
+//pascal
 
 program forLoop;
 var
