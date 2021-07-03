@@ -2,7 +2,7 @@
 
 using System;
 
-class Hello
+class Potato
 {
     static void Main()
     {
