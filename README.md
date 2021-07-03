@@ -83,3 +83,8 @@ Say potato 10x in multiple language
 `Run: lua potato.lua`
 
 ##
+
+### Go - Approved (verified)
+`None`
+
+##
