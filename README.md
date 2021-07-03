@@ -2,7 +2,7 @@
 Say potato 10x in multiple language
 ## If you want more language, make an issue :)
 
-## Language coming soon: C, c++, Go
+## Language coming soon: C, c++
 
 ##
 
@@ -88,3 +88,13 @@ Say potato 10x in multiple language
 `None`
 
 ##
+
+### Bash - Approved (verified)
+`Require: bash`
+
+`Permission: chmod u+x potato.sh`
+
+`Run: ./potato.sh`
+
+##
+
