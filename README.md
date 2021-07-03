@@ -21,3 +21,10 @@ Say potato 10x in multiple language
 `Require: Perl`
 
 `Run: perl potato.pl`
+
+##
+
+### Pascal - Approved (verified)
+`Require: fp-compiler | sudo apt install fp-compiler`
+`Compile: pc potato.p`
+`Run: ./potato`
