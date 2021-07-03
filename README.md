@@ -74,3 +74,12 @@ Say potato 10x in multiple language
 `Compile: javac potato.java`
 
 `Run: java potato`
+
+##
+
+### Lua - Approved (verified)
+`Require: Lua`
+
+`Run: lua potato.lua`
+
+##
