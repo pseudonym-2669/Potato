@@ -26,5 +26,7 @@ Say potato 10x in multiple language
 
 ### Pascal - Approved (verified)
 `Require: fp-compiler | sudo apt install fp-compiler`
+
 `Compile: pc potato.p`
+
 `Run: ./potato`
