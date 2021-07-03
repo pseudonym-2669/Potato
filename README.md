@@ -53,3 +53,10 @@ Say potato 10x in multiple language
 `Compile: rustc potato.rs`
 
 `Run: ./potato`
+
+### C# - Approved (verified)
+`Require: mono | sudo apt install mono`
+
+`Compile: mcs potato.cs`
+
+`Run: mono potato.exe`
