@@ -30,3 +30,10 @@ Say potato 10x in multiple language
 `Compile: pc potato.p`
 
 `Run: ./potato`
+
+##
+
+### Javascript - Approved (verified)
+`Require: nodejs` or `node`
+
+`Run: node potato.js` or `nodejs potato.js`
