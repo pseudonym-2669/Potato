@@ -37,3 +37,9 @@ Say potato 10x in multiple language
 `Require: nodejs` or `node`
 
 `Run: node potato.js` or `nodejs potato.js`
+
+##
+
+### Php - Approved (verified)
+`Require: php`
+`Run: php potato.php`
