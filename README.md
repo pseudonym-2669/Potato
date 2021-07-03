@@ -60,3 +60,11 @@ Say potato 10x in multiple language
 `Compile: mcs potato.cs`
 
 `Run: mono potato.exe`
+
+
+### Java - Approved (verified)
+`Require: openjdk`
+
+`Compile: javac potato.java`
+
+`Run: java potato`
