@@ -98,3 +98,11 @@ Say potato 10x in multiple language
 
 ##
 
+### C++ - Approved (verified)
+`Require: g++`
+
+`Compile: g++ -o "potato" a.cpp`
+
+`Run: ./potato`
+
+##
