@@ -44,3 +44,12 @@ Say potato 10x in multiple language
 `Require: php`
 
 `Run: php potato.php`
+
+##
+
+### Rust - Approved (verified)
+`Require: rustc | sudo apt install rustc`
+
+`Compile: rustc potato.rs`
+
+`Run: ./potato`
