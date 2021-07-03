@@ -2,7 +2,7 @@
 Say potato 10x in multiple language
 ## If you want more language, make an issue :)
 
-## Language coming soon: C, c++
+## Language coming soon: C, Scala, Swift
 
 ##
 
