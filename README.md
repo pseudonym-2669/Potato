@@ -117,7 +117,6 @@ Say potato 10x in multiple language
 ##
 
 ### Scala - Approved (verified)
-
 `Note: It's similar to java`
 
 `Require: scala | sudo apt install scala`
@@ -125,5 +124,13 @@ Say potato 10x in multiple language
 `Compile: scalac potato.scala`
 
 `Run: scala potato`
+
+##
+
+### R - Approved (verified)
+
+`Require: R | sudo apt install r-base`
+
+`Run: Rscript potato.r`
 
 ##
