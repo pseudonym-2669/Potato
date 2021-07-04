@@ -106,3 +106,12 @@ Say potato 10x in multiple language
 `Run: ./potato`
 
 ##
+
+### C - Approved (verified)
+`Require: g++`
+
+`Compile: g++ -o "potato" a.c`
+
+`Run: ./potato`
+
+##
