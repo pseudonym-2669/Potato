@@ -2,7 +2,7 @@
 Say potato 10x in multiple language
 ## If you want more language, make an issue :)
 
-## Language coming soon: C, Scala, Swift
+## Language coming soon: Swift
 
 ##
 
@@ -113,5 +113,17 @@ Say potato 10x in multiple language
 `Compile: g++ -o "potato" a.c`
 
 `Run: ./potato`
+
+##
+
+### Scala - Approved (verified)
+
+`Note: It's similar to java`
+
+`Require: scala | sudo apt install scala`
+
+`Compile: scalac potato.scala`
+
+`Run: scala potato`
 
 ##
