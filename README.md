@@ -128,9 +128,25 @@ Say potato 10x in multiple language
 ##
 
 ### R - Approved (verified)
-
 `Require: R | sudo apt install r-base`
 
 `Run: Rscript potato.r`
+
+##
+
+### F# - Approved (verified)
+### TWO WAY:
+### 1.
+`Require: mono | sudo apt install mono`
+`Require: F# | sudo apt install fsharp`
+
+`Compile: fsharpc potato.fsx`
+
+`Run: mono potato.exe`
+
+### 2.
+`Require: F# | sudo apt install fsharp`
+
+`Run: fsharpi potato.fsx`
 
 ##
